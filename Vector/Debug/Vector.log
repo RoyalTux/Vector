@@ -1,0 +1,13 @@
+﻿  Main.cpp
+c:\users\dmitriy\source\repos\vector\vector\main.cpp(65): warning C4129: 'R': unrecognized character escape sequence
+  Vector.cpp
+c:\users\dmitriy\source\repos\vector\vector\vector.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\source\repos\vector\vector\vector.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\source\repos\vector\vector\vector.cpp(54): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\dmitriy\source\repos\vector\vector\vector.cpp(89): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\source\repos\vector\vector\vector.cpp(100): warning C4804: '>': unsafe use of type 'bool' in operation
+c:\users\dmitriy\source\repos\vector\vector\vector.cpp(104): warning C4018: '>': signed/unsigned mismatch
+c:\users\dmitriy\source\repos\vector\vector\vector.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\dmitriy\source\repos\vector\vector\vector.cpp(136): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Vector.vcxproj -> C:\Users\Dmitriy\source\repos\Vector\Debug\Vector.exe
